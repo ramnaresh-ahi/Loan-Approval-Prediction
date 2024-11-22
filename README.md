@@ -33,4 +33,4 @@ This project predicts loan approval status using a **Logistic Regression** model
 ## 🚀 How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/loan-approval-prediction.git
+   git clone https://github.com/ramnaresh-ahi/Loan-Approval-Prediction.git
